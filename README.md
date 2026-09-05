@@ -16,19 +16,23 @@ This project focuses on identifying profit leakage, analyzing the financial impa
 
 ### 1. Executive Overview
 Provides a high-level summary of corporate performance, tracking revenue vs. profit trends and overall profit margin stability.
-![Executive Overview](Page_1.png)
+<img width="1427" height="806" alt="Page_1" src="https://github.com/user-attachments/assets/d4b2318f-f6eb-49e7-9e03-20461b5f6de3" />
+
 
 ### 2. Product & Margin Analysis
 Evaluates sub-category performance and correlates applied discounts against total profit to identify unprofitable product lines.
-![Product and Margin Analysis](Page_2.png)
+<img width="1429" height="802" alt="Page_2" src="https://github.com/user-attachments/assets/84575518-a7f6-4b57-978f-eb39ded30888" />
+
 
 ### 3. Customer Segmentation
 Breaks down customer tiers (Platinum, Gold, Silver, Red) to analyze which segments drive true profitability versus which drain margins due to over-discounting.
-![Customer Segmentation](Page_3.png)
+<img width="1438" height="807" alt="Page_3" src="https://github.com/user-attachments/assets/7ed09af3-0544-483c-a382-2033cd5b47f8" />
+
 
 ### 4. Geographic Leakage
 Isolates specific regions and countries causing severe financial loss, utilizing heat maps and waterfall charts to pinpoint profit drainers.
-![Geographic Leakage](Page_4.png)
+<img width="1432" height="806" alt="Page_4" src="https://github.com/user-attachments/assets/defe0bd6-7773-4223-9159-9506bdbffc37" />
+
 
 ## Key Business Insights
 * **Corporate Baseline:** The enterprise operates at an **11.7% net profit margin**, generating $718K in total profit from $6.1M in revenue.
